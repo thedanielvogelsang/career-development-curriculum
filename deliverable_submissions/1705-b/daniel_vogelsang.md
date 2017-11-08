@@ -2,6 +2,106 @@
 # Daniel Vogelsang
 
 Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 BE Allison Singer"
+# B4 Portfolio Template
+
+## MOD 4 deliverables
+
+## Area of Emphasis
+
+What do you want to focus on this inning? What do you hope to accomplish by graduation?
+Feel much more confident in my skills as a coder and to better understand more development theory, Computer Science, and technologies.
+
+## Assessment
+
+ PASS: https://github.com/thedanielvogelsang/word_watch
+
+* What was your biggest technical challenge?
+  Perhaps the ajax calls? The test was straight forward.
+
+* What did you like the most about the challenge?
+  I liked the fast-paced nature of the assessment, that it quizzed us on everything we've learned re: vanilla javascript / jquery, and within a time frame that felt perfect.
+
+* How did you solve that challenge? What was your approach?
+  Leaped immediately into the front-end-event-listener javascript that we've been learning, in order to capture the all-important 'word' variable for manipulation.
+
+* What did you learn?
+  Still got some practice to go, for sure.
+
+## Quantified Self
+
+PASS https://github.com/katiekeel/quantified-self
+
+* What was your biggest technical challenge?
+Understanding environmental dependencies and configurations for node.js
+
+* How did you solve that challenge? What was your approach?
+I mean, its an ongoing thing. But for the project itself, I made do with the tutorials and then did a little side investigation in order to fill in the gaps. Largely, and this is a turing-long thing, I would like to have had a few more technically-intensive conversations about frameworks, environments, and everything in between. In preparing for my job interviews, I dont really even know how best to tackle this large and looming lack of understanding...
+
+* What did you like the most about the challenge?
+I absolutely *adored* learning javascript, in a fast-paced, multi-environment (server side, client side) process, which not only allowed a comprehensive understanding of both front-end and back-end applications of JS, but also gave me an opportunity to see the two interact for a 'full stack' experience. LOVED THE PROJECT!
+
+* What are three technical concepts you learned during this project?
+I learned that JS sits, sort of, between a direct OOP language and a functional language.
+
+* If you could change one thing about your technical approach, what would it be and why?
+I would read more docs ahead of time, and perhaps take notes. Patience is a virtue I have little time for.
+
+* What was the experience like working with a pair while learning something new?
+Stressful, but I had confidence in my partner and we did a lot remotely.
+
+## Capstone Project
+
+PASS https://github.com/thedanielvogelsang/VanCSVUploader
+
+* What was your biggest technical challenge?
+React at first, but that was just the first few days. Progressively it became more and more and issue of Van's API and being able to coordinate timing with the candidate/her team. I would say however that figuring out how to post in production was a particularly challenging feat.
+
+* How did you solve that challenge? What was your approach?
+At first I spent a lot of time in debugger trying to locate the issue, as well as ample hours researching specific errors related to Heroku, Redis, Background Workers, Sidekiq, RedisToGo, Rediscloud and React.
+
+* What did you like the most about the challenge?
+It gave me an opportunity to stretch my comforts, after the stretch 'off' between QuantifiedSelf and my capstone. But most of all, it pressed me to explore the very subjects I understood least: ones of production and environments and runtimes. Being by myself and still required to take a complex product to production forced me to read manuals and be more tactful in my approach.
+
+* What are three technical concepts you learned during this project?
+React syntax, construct, and deployment
+The parts of an HTTP request and how to manipulate them frontside / backside
+The mechanics of a background worker, how Sidekiq interacts with Redis and the restrictions on that interation Heroku consigns.
+
+## Feedback
+
+What's one piece of meaningful feedback you received during B4? What have you done or going to do regarding this feedback?
+I really can't wait to negotiate salary in the real world, I thought the Gear Up with Allison pertaining to negotiations was particularly insightful and built my confidence.
+
+The other piece of meaningful advice I received was actually from my Lead during my shadow with Healthify, who told me that the number 1 thing he looks for at Healthify when hiring is a humble willingness to learn. I think this is the best way to approach the table when starting / applying for a new job.
+
+## Gear Up
+
+Write a reflection about the process of planning/revising a Gear Up session and facilitating the session. Did you enjoy the experience? What was challenging? What was most rewarding?
+
+I was on the Social Movements & Tech GearUP, and I absolutely loved our Gear Up session. We did an excellent job organizing the session, I think, which really paid off in the fluidity of the class and the diversity of voice and competence from the 4th mods that helped teach it together. We purposefully made sure most of the class time was spent around self-exploration, but also explicitly made an intention to load up the first quarter of the session with lots of rich examples, which we divided between ourselves to share. I think we had put together a conversation that held beautiful balance between practical and philosophical, and the students left the session happy they had come.
+
+## Community Involvement
+
+###How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
+
+This quarter I really tried to reach out to the 'older' students in our class that were from former cohorts. I hung out with Nick on more than one occasion, and Chantal and I really get along. I worked with several younger cohort students on their projects, and helped when I could. I also helped mitigate an issue between two of my Gear Up session mates, which I think was huge because it helped steer us toward success when our first few meetings were tense.
+
+## Going Forward
+
+###What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
+
+Confidence that I can solve complex problems (that may contain foreign-looking concepts or code) by slow, meticulous research and grit. I really think Turing amplified my resolve when tackling tougher problems, and I want to continue to grow that skill.
+
+Greater appreciation and ability to parse over the Docs for any particular new (or old!) tech
+
+Agile: I think that the fast paced, get-it-to-production and plan-for-future-iteration approach to building code is a good model for real life projects, and matches my personality--even though historically I've been much more of a 'only launch when its completely finished' sort of person. Changing up this approach keeps the focus on creativity and production, as opposed to thought and reflection.
+
+## Professional Development
+
+* Link to 30-day post-grad job search action plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+* Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
+* Prepare and share your Turing story during week six.
+
 
 ## Mod 3 Deliverables:
 
