@@ -24,21 +24,22 @@ The third part is optional although highly encouraged.
 
 ## #1: Job Search Plan: Create a schedule & goals
 1. Design a 40-hour "work week" that provides time for: 
-	* Code (ideally, 2-4 hours a day will be dedicated to coding)
-	* Outreach
-	* Research 
-	* Network   
-	* Any other areas where you'd like to grow
-How much time will you spend on each? When will you do each thing?
-
-
+	https://docs.google.com/spreadsheets/d/1S4Bs99nj5wPikCabppnD1zYuFFuVQBxrUv_snilZU-U/edit#gid=0
 
 2. Backwards planning: What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
-
+	when i am happy with my employer
 
 
 3. Based on what you outlined above, create monthly, weekly, and daily goals in order to reach your big goal.
-
+month1:	week1_goal: 4 applications minimum; finish and polish VANCsvUploader; |3 hr min of techprep & 4 hr code challenge|
+	week2_goal: 3 apps minimum; polish and groom past apps; |5 & 4 hrs min|
+	week3_goal: 3 apps minimum; consider helping an open source project/designing new project; |2 & 2 hrs min|
+	week4_goal: 2 apps minimum; consider learning a new technology
+month2: week5_goal: 5 apps minimum;
+	week6_goal: 5 apps minimum;
+	week7_goal: 5 apps minimum;
+	week8_goal: 5 apps minimum;
+	
 Keep in mind:
 
 * What skills would you like to improve or develop?
